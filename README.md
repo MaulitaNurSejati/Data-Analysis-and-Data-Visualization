@@ -150,3 +150,28 @@ bin—sometimes called a class interval—is a way of sorting data in a histogra
 #### Pro Tips
 •	Histograms are commonly used to view the frequency of continuous numerical data.
 •	Bar charts are commonly used to view the frequency of categorical data.
+
+# Changing the size of bins using Numpy
+Adjusting bin size using NumPy allows you to control the width of the intervals in a histogram, providing a more detailed or coarse view of your data. Smaller bin sizes capture finer patterns, while larger ones smooth out the data's distribution.
+
+## Using Matplotlib
+
+![image](https://github.com/MaulitaNurSejati/Data-Analysis-and-Data-Visualization/assets/135823289/f73bda77-d775-4b22-96e7-f0c4b1081494)
+
+![image](https://github.com/MaulitaNurSejati/Data-Analysis-and-Data-Visualization/assets/135823289/37a31d5f-048b-4cff-9f70-5645dde9649d)
+
+![image](https://github.com/MaulitaNurSejati/Data-Analysis-and-Data-Visualization/assets/135823289/792dee1c-3724-47a8-b283-c504d95d8179)
+
+![image](https://github.com/MaulitaNurSejati/Data-Analysis-and-Data-Visualization/assets/135823289/c787e4a4-bc28-4e59-812a-72d97a48b4b9)
+
+## Using Seaborn
+
+![image](https://github.com/MaulitaNurSejati/Data-Analysis-and-Data-Visualization/assets/135823289/a920a1a4-cde0-423d-8813-7f03dbbbda02)
+
+![image](https://github.com/MaulitaNurSejati/Data-Analysis-and-Data-Visualization/assets/135823289/277bb8dd-3140-41c2-98ea-ad73dbc05ab3)
+
+![image](https://github.com/MaulitaNurSejati/Data-Analysis-and-Data-Visualization/assets/135823289/e6084111-7a2e-4766-967f-32a06d35de58)
+
+### Multiple Histogram
+
+![image](https://github.com/MaulitaNurSejati/Data-Analysis-and-Data-Visualization/assets/135823289/c1b3157e-454c-4215-8ab4-5ba19ae94ba9)
