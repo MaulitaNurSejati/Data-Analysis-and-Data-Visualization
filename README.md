@@ -26,7 +26,7 @@ Example:
 
 •	Quartile: Quartiles divide a dataset into four equal parts. The first quartile (Q1) is the value below which 25% of the data falls, the second quartile (Q2) is the median, and the third quartile (Q3) is the value below which 75% of the data falls. Quartiles are useful for understanding the distribution and identifying potential outliers.
 
-# EXPLORATORY DATA ANALYSIS METHODS
+# Exploratory Data Analysis Methods
 ## Correlation Analysis
 Correlation analysis, often computed using the corr() function, is a statistical method used to measure the strength and direction of a linear relationship between two variables. 
 
