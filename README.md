@@ -13,11 +13,17 @@ Example:
 
 # Measure of Central Tendency
 •	Mean: The sum of all values in a dataset divided by the number of values.It provides a measure of the central location and is sensitive to extreme values.
+
 •	Median: If there's an even number of observations, it's the average of the two middle values.
+
 •	Mode: The mode is the value that occurs most frequently in a dataset.
+
 •	Range: The range is the difference between the maximum and minimum values in a dataset.
+
 •	Variance: Variance measures how far each data point in a dataset is from the mean. It is the average of the squared differences from the mean. It quantifies the overall variability in the dataset.
+
 •	Standard Deviation: The standard deviation is the square root of the variance. It provides a measure of how spread out the values are around the mean. It is a widely used indicator of the amount of variation or dispersion in a dataset. 
+
 •	Quartile: Quartiles divide a dataset into four equal parts. The first quartile (Q1) is the value below which 25% of the data falls, the second quartile (Q2) is the median, and the third quartile (Q3) is the value below which 75% of the data falls. Quartiles are useful for understanding the distribution and identifying potential outliers.
 
 # EXPLORATORY DATA ANALYSIS METHODS
